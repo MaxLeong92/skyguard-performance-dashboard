@@ -4,3 +4,4 @@ numpy
 plotly
 scikit-learn
 openpyxl
+xgboost==2.0.3
